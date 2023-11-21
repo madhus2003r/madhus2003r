@@ -26,5 +26,6 @@
 
 <!-- Add this to your README.md file -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhus2003r&theme=dark&background=000000&ring=2B2B2B&fire=DD2727&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhus2003r&theme=dark&background=000000&ring=FFA500&fire=DD2727&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
+
 
