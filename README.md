@@ -24,6 +24,8 @@
 
 [![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=madhus2003r&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+https://github.com/madhus2003r/github-readme-activity-graph.git
+
 ---
 
 ## Top Languages
