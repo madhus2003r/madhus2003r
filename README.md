@@ -21,6 +21,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhus2003r&layout=compact&bg_color=000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Add this to your README.md file -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhus2003r&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
