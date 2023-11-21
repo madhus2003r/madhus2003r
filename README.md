@@ -2,15 +2,22 @@
 
 <!--
 **madhus2003r/madhus2003r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+### Hi there, I'm Madhu! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I'm currently a student.
+- 🌱 I'm currently learning and exploring various technologies.
+- ⚡ Fun fact: I can solve a Rubik's Cube in under two minutes!
+- 📫 You can reach me at: madhu.s2003s@gmail.com
+- 💬 Feel free to ask me about anything!
+
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<!-- Add this to your README.md file -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhus2003r)](https://git.io/streak-stats)
+
