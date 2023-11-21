@@ -18,8 +18,9 @@
 - 😄 Pronouns: ...
 -->
 
-<!-- Activity Graph Card -->
-[![madhus2003r's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=madhus2003r&amp;bg_color=000000&amp;color=4fff67&amp;line=4fff67&amp;point=ffffff&amp;area=true&amp;hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- GitHub Activity Graph Card -->
+[![madhus2003r's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=madhus2003r&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-- GitHub Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=madhus2003r&amp;theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
