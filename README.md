@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **madhus2003r/madhus2003r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,31 +17,43 @@
 - 😄 Pronouns: ...
 -->
 
-<!-- GitHub Activity Graph Card -->
-[![madhus2003r's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=madhus2003r&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
-<!-- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=madhus2003r&amp;theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+## GitHub Activity
 
-<!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=madhus2003r)
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=madhus2003r&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
-
-<!-- Add this to your README.md file -->
+## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhus2003r&layout=compact&bg_color=000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Add this to your README.md file -->
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhus2003r&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=madhus2003r&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-<!-- Add this to your README.md file -->
+## GitHub Streak
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhus2003r&theme=dark&background=000000&ring=00FFFF&fire=00FF00&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF)](https://git.io/streak-stats)
+
+---
+
+## GitHub Trophies
+
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=madhus2003r&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=madhus2003r)
+
 
 
 
