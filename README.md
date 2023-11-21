@@ -26,5 +26,5 @@
 
 <!-- Add this to your README.md file -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhus2003r)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhus2003r&layout=compact&bg_color=000000&text_color=ffffff)](https://git.io/streak-stats)
 
