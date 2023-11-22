@@ -8,7 +8,7 @@
 - 🔭 I'm currently a student. 
 - 🌱 I'm currently learning and exploring various technologies.
 - ⚡ Fun fact: I can solve a Rubik's Cube in under two minutes!
-- 📫 You can reach me at: madhu.s2003s@gmail.com
+- 📫 You can reach me at: madhu.s2003r@gmail.com
 - 💬 Feel free to ask me about anything!
 
 <!--
