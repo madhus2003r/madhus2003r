@@ -5,7 +5,7 @@
 
 ### Hi there, I'm Madhu! 👋
 
-- 🔭 I'm currently a student. 
+- 🔭 I'm currently a Computer Science and Engineering student. 
 - 🌱 I'm currently learning and exploring various technologies.
 - 📫 You can reach me at: madhu.s2003r@gmail.com
 - 💬 Feel free to ask me about anything!
