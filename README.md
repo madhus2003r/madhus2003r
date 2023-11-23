@@ -40,10 +40,10 @@
 
 ---
 
-## GitHub Trophies
+<!-- ## GitHub Trophies
 
 [![GitHub trophies](https://github-profile-trophy.vercel.app/?username=madhus2003r&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 ---
 
 ## Profile Views
