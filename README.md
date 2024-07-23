@@ -5,10 +5,10 @@
 
 ### Hi there, I'm Madhu! 👋
 
-- 🔭 I'm currently a Computer Science and Engineering student. 
-- 🌱 I'm currently learning and exploring various technologies.
+- 🔭 I'm a Computer Science Engineering graduate.
+- 🌱 I'm currently learning Java, DSA, and SQL.
 - 📫 You can reach me at: madhu.s2003r@gmail.com
-- 💬 Feel free to ask me about anything!
+
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -46,9 +46,7 @@
 -->
 ---
 
-## Profile Views
 
-![](https://komarev.com/ghpvc/?username=madhus2003r)
 
 
 
