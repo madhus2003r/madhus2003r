@@ -1,24 +1,10 @@
-  
-<!--
-**madhus2003r/madhus2003r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ### Hi there, I'm Madhu! 👋
 
-- 🔭 I'm a Computer Science Engineering graduate.
-- 🌱 I'm currently learning Java, DSA, and SQL.
+- 💻 Software Engineer
+- 🎓 Computer Science Engineering Graduate
+- 🌱 Working with Java, Spring Boot, SQL, ITSM, Azure, and Full-Stack Development
+- 🔧 Interested in Software Development, ITSM Platform Development, and Cloud Technologies
 - 📫 You can reach me at: madhu.s2003r@gmail.com
-
-
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
--->
-
-
----
-
 
 ---
 
@@ -39,15 +25,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhus2003r&theme=dark&background=000000&ring=00FFFF&fire=00FF00&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF)](https://git.io/streak-stats)
 
 ---
-
-<!-- ## GitHub Trophies
-
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=madhus2003r&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
--->
----
-
-
-
-
-
-
